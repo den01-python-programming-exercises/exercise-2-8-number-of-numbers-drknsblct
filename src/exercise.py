@@ -9,6 +9,7 @@ def main():
             break
         
         count += 1
+        
    print('Number of numbers: ' + str(count))
 
 if __name__ == '__main__':
