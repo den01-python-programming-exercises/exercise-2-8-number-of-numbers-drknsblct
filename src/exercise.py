@@ -10,5 +10,6 @@ def main():
         
         count += 1
    print('Number of numbers: ' + str(count))
+
 if __name__ == '__main__':
     main()
